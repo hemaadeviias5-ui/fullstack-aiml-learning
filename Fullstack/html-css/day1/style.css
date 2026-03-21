@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  margin: 40px;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: gray;
+}
+
+main {
+  display: flex;
+  gap: 20px;
+}
+
+section {
+  background: #f2f2f2;
+  padding: 15px;
+  flex: 1;
+}
